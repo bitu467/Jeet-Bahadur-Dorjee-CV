@@ -17,7 +17,7 @@ A modern, responsive, and print-friendly resume template built with HTML and Tai
 
 ## 🚀 Live Demo
 
-[View Live Resume](https://yourusername.github.io/resume-project/) <!-- Replace with your actual URL -->
+[View Live Resume](https://jeetbahadurdorjee.netlify.app) <!-- Replace with your actual URL -->
 
 ## 📋 Sections Included
 
